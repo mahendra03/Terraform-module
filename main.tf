@@ -3,6 +3,6 @@ provider "aws" {
 }
 
 module "my_vpc" {
-  source      = "../modules/vpc" 
+  source      = "../Modules/vpc" 
 
 }
